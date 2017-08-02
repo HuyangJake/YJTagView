@@ -5,6 +5,7 @@
 
 ### 效果展示
 
+![](https://github.com/HuyangJake/YJTagView/blob/master/tagView.gif)
 
 ### 特点
 * 根据标签文字自动计算tag的宽度
